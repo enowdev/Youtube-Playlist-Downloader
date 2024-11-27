@@ -40,7 +40,7 @@
 
    <details>
    <summary>Lihat Screenshot</summary>
-   <img src="assets/download_demo.png" alt="Download Demo"/>
+   <img src="assets/sample.png" alt="Download Demo"/>
    </details>
 
 2. **Kontrol Download**
