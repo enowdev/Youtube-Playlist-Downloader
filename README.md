@@ -40,7 +40,7 @@
 
    <details>
    <summary>Lihat Screenshot</summary>
-   <img src="assets/sample.png" alt="Download Demo"/>
+   <img src="assets/sample2.png" alt="Download Demo"/>
    </details>
 
 2. **Kontrol Download**
@@ -51,7 +51,7 @@
 
    <details>
    <summary>Lihat Screenshot</summary>
-   <img src="assets/control_demo.png" alt="Control Demo"/>
+   <img src="assets/sample.png" alt="Control Demo"/>
    </details>
 
 ## Download
